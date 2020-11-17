@@ -1,0 +1,153 @@
+{
+  "project_info": {
+    "project_number": "737651766280",
+    "firebase_url": "https://japp-classifieds.firebaseio.com",
+    "project_id": "japp-classifieds",
+    "storage_bucket": "japp-classifieds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737651766280:android:2382ea4a69e3ff24",
+        "android_client_info": {
+          "package_name": "com.jamaica.japp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737651766280-6dgfiqftujlbo44qc5s593nufu6qa27i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamaica.japp",
+            "certificate_hash": "9aae0b7670999f4b9df45dd97093396034b00881"
+          }
+        },
+        {
+          "client_id": "737651766280-uv256s2c9jmjfp33trodmq99eihq4euv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamaica.japp",
+            "certificate_hash": "53cf8f6e0e712a8ea12f2470df816dd64fc1e157"
+          }
+        },
+        {
+          "client_id": "737651766280-otuv7qc7sl46kvbb48mun0uotqogtujc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamaica.japp",
+            "certificate_hash": "a6055f99f2af49c098229ed47c3e47dafaa2736a"
+          }
+        },
+        {
+          "client_id": "737651766280-un0cc17mfcj2qlcgujc4iel6j7n6n3p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamaica.japp",
+            "certificate_hash": "de292d6a2d8e7521d239f562b80abd81b3652d4d"
+          }
+        },
+        {
+          "client_id": "737651766280-acugrjbsabnb9bahg0f9vjn1uti73unf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamaica.japp",
+            "certificate_hash": "f8542b2dd517e5b92f634a3f492ca71a5ec7fb16"
+          }
+        },
+        {
+          "client_id": "737651766280-2kqdhcgq0fk6qiahrc0sbq0golr1g9oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs1vtKyXDvDMQze4rQU9EAyy7zEdH1jTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737651766280-4elmo9bgkk283grop032mm8tfm4so6n5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737651766280-2l74g4hjbsvaknqvmc92rdt0s4o03fvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.japp.japp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737651766280:android:c9dbeebe2feb0c7d",
+        "android_client_info": {
+          "package_name": "com.japp.online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737651766280-ehkma06h4m98468mpa7tm7ar3mles8ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.japp.online",
+            "certificate_hash": "9aae0b7670999f4b9df45dd97093396034b00881"
+          }
+        },
+        {
+          "client_id": "737651766280-ubt19tpkpm2gstceq11p9d1fvo9mdql0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.japp.online",
+            "certificate_hash": "f8542b2dd517e5b92f634a3f492ca71a5ec7fb16"
+          }
+        },
+        {
+          "client_id": "737651766280-2kqdhcgq0fk6qiahrc0sbq0golr1g9oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs1vtKyXDvDMQze4rQU9EAyy7zEdH1jTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737651766280-4elmo9bgkk283grop032mm8tfm4so6n5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737651766280-2l74g4hjbsvaknqvmc92rdt0s4o03fvi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.japp.japp"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
